@@ -15,7 +15,7 @@ define ( 'TEMPLATE_CONFIGS', ADMIN_BASE . '/config/' );
 define ( 'TEMPLATE_CACHE', ADMIN_BASE . '/cache/' );
 
 //OSAdmin常量
-define ( 'ADMIN_URL' ,'http://demo.osadmin.net/uploads');
+define ( 'ADMIN_URL' ,'http://localhost/OSAdmin');
 define ( 'ADMIN_TITLE' ,'管理后台');
 define ( 'COMPANY_NAME' ,'OSAdmin.org');
 
